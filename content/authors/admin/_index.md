@@ -50,7 +50,7 @@ education:
     date_end: 2023-08-31
     summary: |
       GPA: 88  
-      Focus on core CS topics to complement engineering background and improve my software and coding knowledge.
+      Completed advanced coursework, with focus on core CS topics to complement engineering background and improve my software and coding knowledge.
 
 work:
   - position: Team Lead – Robotics & Software Engineer
@@ -160,5 +160,3 @@ awards:
 Robotics and software team lead with a strong background in C++, Python, and ROS2. 
 Proven track record of driving hands-on development, mentoring engineers, and improving code quality in Agile environments. 
 Experienced in designing interfaces between embedded hardware and software systems. 
-Holds a B.Sc. in Medical Engineering (Cum Laude), with additional academic excellence awards and a commendation for the final project.
-Completed advanced coursework in Algorithms, Data Structures and Machine Learning ourside of my degree.
