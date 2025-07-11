@@ -7,10 +7,11 @@ tags:
   - Computer Vision
   - U-Net
   - Wafer Inspection
+  - Computer Vision
+  - Image Segmentation
 ---
 
-Detecting scratches on semiconductor wafers using coordinate map data and image segmentation. 
-The project transforms tabular die data into a binary image segmentation problem, leveraging a U-Net model to identify and localize scratches. The approach automates quality control, reduces manual inspection costs, and improves defect detection accuracy. 
-Achieved strong results on key metrics (IoU, Precision, Recall, AUC), with further improvements possible via hyperparameter tuning and advanced preprocessing.
+Detecting scratches on semiconductor wafers given coordinate map data, transforming into images and running U-Net model to identify and localize scratches. 
+The approach automates quality control, reduces manual inspection costs, and improves defect detection accuracy. 
 
 [GitHub: IdanCohh/Scratch-Detection](https://github.com/IdanCohh/Scratch-Detection)

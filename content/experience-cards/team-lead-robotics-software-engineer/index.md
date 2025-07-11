@@ -1,8 +1,8 @@
 ---
 title: "Team Lead – Robotics & Software Engineer"
 company: "Unlimited Robotics"
-link: "https://www.hospital-robots.com/"
-company_logo: "assets/media/logos/unlimited-robotics.png"
+link: "https://hospital-robots.com"
+logo: 'assets/media/logos/unlimited-robotics.png'
 type: experience-card
 featured: false
 date: 2025-05-01

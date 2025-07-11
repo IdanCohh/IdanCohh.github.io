@@ -113,7 +113,7 @@ skills:
         icon: hero/eye
       - name: Architecture & Planning (Code)
         icon: hero/puzzle-piece
-      - name: Continuous Learning & Improvement
+      - name: Continuous Learning
         icon: hero/light-bulb
   - name: Personal Strengths
     color: '#20c997'

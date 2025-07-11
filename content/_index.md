@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: 
+      # button:
+      #   text: Download CV
+      #   url: 
     design:
       css_class: dark
       background:
@@ -40,7 +40,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: experience-card
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         author: ""
