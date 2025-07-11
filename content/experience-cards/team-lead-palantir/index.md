@@ -1,7 +1,8 @@
 ---
 title: "Team Lead, Research and Data Volunteer"
 company: "Palantir"
-company_logo: "assets/media/logos/palantir.png"
+link: ""
+logo: "assets/media/logos/palantir.png"
 type: experience-card
 featured: false
 date: 2023-10-01

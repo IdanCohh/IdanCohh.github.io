@@ -3,10 +3,10 @@ title: "Robotics & Software Engineer"
 company: "Unlimited Robotics"
 link: "https://hospital-robots.com"
 logo: 'assets/media/logos/unlimited-robotics.png'
-date: 2023-12-01
-end_date: 2025-05-01
 type: experience-card
 featured: true
+date: 2023-12-01
+end_date: 2025-05-01
 summary: |
     Developed and implemented advanced robotics solutions for hospitals, 
     focusing on integrating hardware and software, owning and developing components and bridging embedded to higher-level software and interfaces. 
