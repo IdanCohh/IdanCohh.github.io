@@ -137,9 +137,9 @@ skills:
 
 languages:
   - name: Hebrew (native)
-    # percent: 100
+    percent: 100
   - name: English (fluent)
-    # percent: 100
+    percent: 100
 
 awards:
   - title: Cum Laude – B.Sc. Medical Engineering
