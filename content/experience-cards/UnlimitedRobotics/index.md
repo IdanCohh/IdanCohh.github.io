@@ -40,4 +40,5 @@ Developed Python, C++, and ROS2-based applications on Unlimited Robotics' Gary r
 Was sent abroad to the US to mentor interns and new team members by providing hands-on guidance and comprehensive onboarding into critical projects.
 
 A funny but real case that occurred during my time mentoring US interns at Unlimited Robotics:
-[LinkedIn post: Gary, Unlimited Robotics' robot, in a US hospital](https://www.linkedin.com/posts/guy-altagar_robotics-ai-hospital-activity-7242443754207408130-TMNW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLieicBijj-HLdtVwSnZav0fE6d9lcysaw)
+
+[[LinkedIn post] Gary, Unlimited Robotics' robot, in a US hospital](https://www.linkedin.com/posts/guy-altagar_robotics-ai-hospital-activity-7242443754207408130-TMNW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLieicBijj-HLdtVwSnZav0fE6d9lcysaw)
