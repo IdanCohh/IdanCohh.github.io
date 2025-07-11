@@ -22,7 +22,7 @@ role: Team Lead Robotics & Software Engineer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: UnlimitedRobotics
-    url: ''
+    url: 'https://www.hospital-robots.com/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,8 +55,8 @@ education:
 work:
   - position: Team Lead – Robotics & Software Engineer
     company_name: Unlimited Robotics
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.hospital-robots.com/'
+    company_logo: 'assets/media/logos/unlimited-robotics.png'
     date_start: 2025-05-01
     date_end: ''
     summary: |2-
@@ -68,8 +68,8 @@ work:
         well received by the team, improving productivity and collaboration.
   - position: Robotics & Software Engineer
     company_name: Unlimited Robotics
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.hospital-robots.com/'
+    company_logo: 'assets/media/logos/unlimited-robotics.png'
     date_start: 2023-12-01
     date_end: 2025-05-01
     summary: |2-
@@ -81,7 +81,7 @@ work:
   - position: Team Lead, Research and Data Volunteer
     company_name: Palantir
     company_url: ''
-    company_logo: ''
+    company_logo: 'assets/media/logos/palantir.png'
     date_start: 2023-10-01
     date_end: 2023-12-01
 
