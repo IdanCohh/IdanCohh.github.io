@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Team Lead Robotics & Software Engineer
+role: Team Lead Robotics & Software Engineer | Software Enthusiast | C++, Python, ROS2
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -111,7 +111,7 @@ skills:
         icon: hero/cog-6-tooth
       - name: Code Reviews
         icon: hero/eye
-      - name: Architecture & Planning (Code)
+      - name: Code Architecture
         icon: hero/puzzle-piece
       - name: Continuous Learning
         icon: hero/light-bulb
@@ -127,7 +127,7 @@ skills:
         icon: hero/bolt
       - name: Proactive
 #        percent: 95
-        icon: hero/brain
+        icon: hero/forward
       - name: Independent
 #        percent: 95
         icon: hero/user
@@ -136,10 +136,10 @@ skills:
         icon: hero/user-group
 
 languages:
-  - name: English
-    percent: 100
-  - name: Hebrew
-    percent: 100
+  - name: Hebrew (native)
+    # percent: 100
+  - name: English (fluent)
+    # percent: 100
 
 awards:
   - title: Cum Laude – B.Sc. Medical Engineering
