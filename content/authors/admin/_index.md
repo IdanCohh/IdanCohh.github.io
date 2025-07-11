@@ -105,25 +105,35 @@ skills:
         icon: devicon/git
   - name: Tools & Practices
     items:
-      - name: VS Code / Cursor / Copilot
-#        percent: 80
+      - name: VS Code, AI (Cursor / Copilot)
         icon: devicon/vscode
       - name: Agile Methodology, CI/CD
-#        percent: 75
-        icon: gear
+        icon: hero/cog-6-tooth
+      - name: Code Reviews
+        icon: hero/eye
+      - name: Architecture & Planning (Code)
+        icon: hero/puzzle-piece
+      - name: Continuous Learning & Improvement
+        icon: hero/light-bulb
   - name: Personal Strengths
     color: '#20c997'
     color_border: '#38d9a9'
     items:
-      - name: Proactive & Independent
-#        percent: 95
-        icon: brain
       - name: Detail-Oriented
 #        percent: 90
-        icon: magnifying-glass
+        icon: hero/magnifying-glass
       - name: Fast Learner
 #        percent: 90
-        icon: bolt
+        icon: hero/bolt
+      - name: Proactive
+#        percent: 95
+        icon: hero/brain
+      - name: Independent
+#        percent: 95
+        icon: hero/user
+      - name: Team Player & Collaboration
+#        percent: 90
+        icon: hero/user-group
 
 languages:
   - name: English
@@ -159,4 +169,4 @@ awards:
 
 Robotics and software team lead with a strong background in C++, Python, and ROS2. 
 Proven track record of driving hands-on development, mentoring engineers, and improving code quality in Agile environments. 
-Experienced in designing interfaces between embedded hardware and software systems. 
+Experienced in designing interfaces between embedded hardware and software systems.
