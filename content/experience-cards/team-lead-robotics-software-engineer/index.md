@@ -4,7 +4,7 @@ company: "Unlimited Robotics"
 link: "https://hospital-robots.com"
 logo: 'assets/media/logos/unlimited-robotics.png'
 type: experience-card
-featured: false
+featured: true
 date: 2025-05-01
 summary: |
   Leading a team of robotics software engineers, driving project ownership and delivery.
