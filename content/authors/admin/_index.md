@@ -11,7 +11,7 @@ last_name: Cohen Priva
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: :vulcan_salute:
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +22,7 @@ role: Team Lead Robotics & Software Engineer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: UnlimitedRobotics
-    url: ''
+    url: 'https://www.hospital-robots.com/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,13 +50,13 @@ education:
     date_end: 2023-08-31
     summary: |
       GPA: 88  
-      Focus on core CS topics to complement engineering background and improve my software and coding knowledge.
+      Completed advanced coursework, with focus on core CS topics to complement engineering background and improve my software and coding knowledge.
 
 work:
   - position: Team Lead – Robotics & Software Engineer
     company_name: Unlimited Robotics
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.hospital-robots.com/'
+    company_logo: 'assets/media/logos/unlimited-robotics.png'
     date_start: 2025-05-01
     date_end: ''
     summary: |2-
@@ -68,8 +68,8 @@ work:
         well received by the team, improving productivity and collaboration.
   - position: Robotics & Software Engineer
     company_name: Unlimited Robotics
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.hospital-robots.com/'
+    company_logo: 'assets/media/logos/unlimited-robotics.png'
     date_start: 2023-12-01
     date_end: 2025-05-01
     summary: |2-
@@ -81,7 +81,7 @@ work:
   - position: Team Lead, Research and Data Volunteer
     company_name: Palantir
     company_url: ''
-    company_logo: ''
+    company_logo: 'assets/media/logos/palantir.png'
     date_start: 2023-10-01
     date_end: 2023-12-01
 
@@ -105,25 +105,35 @@ skills:
         icon: devicon/git
   - name: Tools & Practices
     items:
-      - name: VS Code / Cursor / Copilot
-#        percent: 80
+      - name: VS Code, AI (Cursor / Copilot)
         icon: devicon/vscode
       - name: Agile Methodology, CI/CD
-#        percent: 75
-        icon: gear
+        icon: hero/cog-6-tooth
+      - name: Code Reviews
+        icon: hero/eye
+      - name: Architecture & Planning (Code)
+        icon: hero/puzzle-piece
+      - name: Continuous Learning & Improvement
+        icon: hero/light-bulb
   - name: Personal Strengths
     color: '#20c997'
     color_border: '#38d9a9'
     items:
-      - name: Proactive & Independent
-#        percent: 95
-        icon: brain
       - name: Detail-Oriented
 #        percent: 90
-        icon: magnifying-glass
+        icon: hero/magnifying-glass
       - name: Fast Learner
 #        percent: 90
-        icon: bolt
+        icon: hero/bolt
+      - name: Proactive
+#        percent: 95
+        icon: hero/brain
+      - name: Independent
+#        percent: 95
+        icon: hero/user
+      - name: Team Player & Collaboration
+#        percent: 90
+        icon: hero/user-group
 
 languages:
   - name: English
@@ -135,7 +145,7 @@ awards:
   - title: Cum Laude – B.Sc. Medical Engineering
     date: '2022-07-31'
     awarder: Afeka Tel Aviv Academic College of Engineering
-    icon: graduation-cap
+    icon: hero/graduation-cap
     summary: |
       Graduated with honors – GPA: 91/100  
       Recognized for academic excellence throughout the degree.
@@ -143,7 +153,7 @@ awards:
   - title: Excellence Award and Scholarship (x2)
     date: '2022-07-31'
     awarder: Afeka Tel Aviv Academic College of Engineering
-    icon: medal
+    icon: hero/medal
     summary: |
       Received two separate academic excellence awards and scholarships  
       in recognition of consistent high performance and outstanding academic achievements.
@@ -151,7 +161,7 @@ awards:
   - title: Commendation on Final Project
     date: '2022-07-31'
     awarder: Afeka Tel Aviv Academic College of Engineering
-    icon: trophy
+    icon: hero/trophy
     summary: |
       Final year project received official commendation from faculty.  
       The project demonstrated applied innovation and technical depth in the field of medical engineering.
@@ -159,6 +169,4 @@ awards:
 
 Robotics and software team lead with a strong background in C++, Python, and ROS2. 
 Proven track record of driving hands-on development, mentoring engineers, and improving code quality in Agile environments. 
-Experienced in designing interfaces between embedded hardware and software systems. 
-Holds a B.Sc. in Medical Engineering (Cum Laude), with additional academic excellence awards and a commendation for the final project.
-Completed advanced coursework in Algorithms, Data Structures and Machine Learning ourside of my degree.
+Experienced in designing interfaces between embedded hardware and software systems.
