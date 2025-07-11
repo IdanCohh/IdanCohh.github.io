@@ -145,7 +145,7 @@ awards:
   - title: Cum Laude – B.Sc. Medical Engineering
     date: '2022-07-31'
     awarder: Afeka Tel Aviv Academic College of Engineering
-    icon: graduation-cap
+    icon: hero/graduation-cap
     summary: |
       Graduated with honors – GPA: 91/100  
       Recognized for academic excellence throughout the degree.
@@ -153,7 +153,7 @@ awards:
   - title: Excellence Award and Scholarship (x2)
     date: '2022-07-31'
     awarder: Afeka Tel Aviv Academic College of Engineering
-    icon: medal
+    icon: hero/medal
     summary: |
       Received two separate academic excellence awards and scholarships  
       in recognition of consistent high performance and outstanding academic achievements.
@@ -161,7 +161,7 @@ awards:
   - title: Commendation on Final Project
     date: '2022-07-31'
     awarder: Afeka Tel Aviv Academic College of Engineering
-    icon: trophy
+    icon: hero/trophy
     summary: |
       Final year project received official commendation from faculty.  
       The project demonstrated applied innovation and technical depth in the field of medical engineering.
