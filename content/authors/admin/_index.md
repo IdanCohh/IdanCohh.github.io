@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Idan Cohen Priva
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Idan
+last_name: Cohen Priva
 
 # Status emoji
 status:
@@ -16,171 +16,149 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
 # Role/position/tagline
-role: Chief Scientist
+role: Team Lead Robotics & Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UnlimitedRobotics
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: at-symbol
+  #   url: 'mailto:your-email@example.com'
+  #   label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/IdanCohh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/idan-cohen-p/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc. Medical Engineering
+    institution: Afeka Tel Aviv Academic College of Engineering
+    date_start: 2018-10-01
+    date_end: 2022-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Cum Laude – GPA: 91 
+      Awarded Commendation on Final Project
+  - area: Algorithms, Data Structures and Machine Learning
+    institution: Ben-Gurion University of the Negev
+    date_start: 2022-10-01
+    date_end: 2023-08-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 88  
+      Focus on core CS topics to complement engineering background and improve my software and coding knowledge.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Team Lead – Robotics & Software Engineer
+    company_name: Unlimited Robotics
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-05-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Leading a team of robotics software engineers, driving project ownership and delivery.
+      - Overseeing development processes, collaborating with international team members and improving code quality across projects.
+      - Leading and participating in code reviews to uphold high engineering standards and support team growth.
+      - Staying hands-on — actively writing code, involved in architecture and driving solutions.
+      - Created internal tools, tips, and cheat sheets on our development cycle, our Agile workflows, pull requests, and Git that were adopted and
+        well received by the team, improving productivity and collaboration.
+  - position: Robotics & Software Engineer
+    company_name: Unlimited Robotics
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2023-12-01
+    date_end: 2025-05-01
+    summary: |2-
+      - Developed and deployed C++/ROS2 code for field deployments and assisted with debugging to support the team’s success.
+      - Refactored a major robotics system to improve maintainability and product quality, earning explicit client praise for my collaborative
+        approach and driving noticeable improvements in team delivery since I joined.
+      - Designed and implemented C++ interfaces to connect embedded hardware with software systems via custom protocols.
+      - Mentored interns and new team members by providing hands-on guidance and comprehensive onboarding into critical projects.
+  - position: Team Lead, Research and Data Volunteer
+    company_name: Palantir
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-10-01
+    date_end: 2023-12-01
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
+      - name: C++
+#        percent: 90
+        icon: devicon/cplusplus
       - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+#        percent: 85
+        icon: devicon/python
+      - name: ROS2
+#        percent: 80
+        icon: devicon/ros
+      - name: Docker
+#        percent: 70
+        icon: devicon/docker
+      - name: Git & GitHub
+#        percent: 90
+        icon: devicon/git
+  - name: Tools & Practices
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: VS Code / Cursor / Copilot
+#        percent: 80
+        icon: devicon/vscode
+      - name: Agile Methodology, CI/CD
+#        percent: 75
+        icon: gear
+  - name: Personal Strengths
+    color: '#20c997'
+    color_border: '#38d9a9'
+    items:
+      - name: Proactive & Independent
+#        percent: 95
+        icon: brain
+      - name: Detail-Oriented
+#        percent: 90
+        icon: magnifying-glass
+      - name: Fast Learner
+#        percent: 90
+        icon: bolt
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hebrew
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Cum Laude – B.Sc. Medical Engineering
+    date: '2022-07-31'
+    awarder: Afeka Tel Aviv Academic College of Engineering
+    icon: graduation-cap
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Graduated with honors – GPA: 91/100  
+      Recognized for academic excellence throughout the degree.
+
+  - title: Excellence Award and Scholarship (x2)
+    date: '2022-07-31'
+    awarder: Afeka Tel Aviv Academic College of Engineering
+    icon: medal
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Received two separate academic excellence awards and scholarships  
+      in recognition of consistent high performance and outstanding academic achievements.
+
+  - title: Commendation on Final Project
+    date: '2022-07-31'
+    awarder: Afeka Tel Aviv Academic College of Engineering
+    icon: trophy
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Final year project received official commendation from faculty.  
+      The project demonstrated applied innovation and technical depth in the field of medical engineering.
 ---
 
-## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Robotics and software team lead with a strong background in C++, Python, and ROS2. 
+Proven track record of driving hands-on development, mentoring engineers, and improving code quality in Agile environments. 
+Experienced in designing interfaces between embedded hardware and software systems. 
+Holds a B.Sc. in Medical Engineering (Cum Laude), with additional academic excellence awards and a commendation for the final project.
+Completed advanced coursework in Algorithms, Data Structures and Machine Learning ourside of my degree.
