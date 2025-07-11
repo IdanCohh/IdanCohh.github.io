@@ -11,7 +11,7 @@ last_name: Cohen Priva
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: :vulcan_salute:
 
 # Is this the primary user of the site?
 superuser: true
